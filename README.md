@@ -16,7 +16,7 @@ Interactive Power BI dashboard analyzing sales, profit, customers, products, and
 # Dashboard Screenshots
 
 ## Executive Dashboard
-<img width="100%" alt="Dashboard" src="(https://github.com/PriyaranjanAnalytics/E-Commerce-Business-Analysis-Dashboard/blob/main/Screenshot%202026-05-30%20233016.png)">
+<img width="100%" alt="Dashboard" src="https://github.com/PriyaranjanAnalytics/E-Commerce-Business-Analysis-Dashboard/blob/main/Screenshot%202026-05-30%20233016.png">
 
 ## Product Analysis Dashboard
 <img width="100%" alt="Dashboard" src="https://github.com/PriyaranjanAnalytics/E-Commerce-Business-Analysis-Dashboard/blob/main/Screenshot%202026-05-30%20224113.png">
